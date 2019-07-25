@@ -1,3 +1,2 @@
-class Dog << ActiveRecord::Base
-  @name = name
+class Dog < ActiveRecord::Base
 end
